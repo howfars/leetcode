@@ -45,3 +45,7 @@
 
 ### 2020/07/21
 [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+
+### 2020/07/23
+[64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+[剑指 Offer 63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) 和[字节-动态或贪心 买卖股票的最佳时机]是一样的
