@@ -18,4 +18,4 @@
 | 2020.07.21 | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | https://www.cnblogs.com/realzhaijiayu/p/13357428.html |
 | 2020.07.22 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | https://www.cnblogs.com/realzhaijiayu/p/13363161.html |
 | 2020.07.23 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | https://www.cnblogs.com/realzhaijiayu/p/13368803.html |
-|            |                                                              |                                                       |
+| 2020.07.24 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/)   | https://www.cnblogs.com/realzhaijiayu/p/13373983.html |
