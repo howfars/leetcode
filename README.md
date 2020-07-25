@@ -21,7 +21,7 @@
 | [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::star::star::heart::heart::heart::heart: | 19/30 |
 | [Swetchine](https://github.com/Swetchine)                    | :star::star::heart::heart: | 12/30 |
 | [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::star::star::heart::heart::heart::heart: |   19/30   |
-| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star2::heart::heart::heart: | 23/30 |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star2::star: | 25/30 |
 | [pusidun](https://github.com/pusidun)             | :star::star::heart::heart:  | 13/30 |
 | [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::star::star: |   15/30   |
 | 用户3                                                        |                         |      |
