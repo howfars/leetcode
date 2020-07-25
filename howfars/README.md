@@ -3,7 +3,7 @@
 </h1>
 
 |  **日期** |                             **题目**                             |                             **笔记**                             |                             **#**                             |
-| :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| :-------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | 2020/6/30 | [141. 环形链表 ](https://leetcode-cn.com/problems/linked-list-cycle/)<br>   [142. 环形链表 II - 力扣（LeetCode）](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Leetcode#141,#142_环形链表(剑指Offer#23) ](https://www.cnblogs.com/Howfars/p/13214117.html) | 1 |
 |   2020/7/1  | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |          [剑指Offer_#26_树的子结构](https://www.cnblogs.com/Howfars/p/13220486.html)                                                   |          2                                                  |
 | 2020/7/2 | [剑指 Offer 27. 二叉树的镜像 ](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [剑指Offer_#27_二叉树的镜像 ](https://www.cnblogs.com/Howfars/p/13223544.html) | 3 |
@@ -27,4 +27,6 @@
 | 2020/7/21 | [剑指 Offer 53 - I. 在排序数组中查找数字](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)<br>[剑指 Offer 53 - II. 0～n-1中缺失的数字 ](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)<br>[剑指 Offer 54. 二叉搜索树的第k大节点 ](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)<br>[剑指 Offer 55 - I. 二叉树的深度 ](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/)<br>[剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | [剑指Offer_53 - I_在排序数组中查找数字](https://www.cnblogs.com/Howfars/p/13355205.html)<br>[剑指Offer_53 - II_0～n-1中缺失的数字](https://www.cnblogs.com/Howfars/p/13355362.html)<br>[剑指Offer_#54_二叉搜索树的第k大节点](https://www.cnblogs.com/Howfars/p/13355439.html)<br>[剑指Offer_#55 - I_二叉树的深度](https://www.cnblogs.com/Howfars/p/13355513.html)<br>[剑指Offer_#55 - II_平衡二叉树](https://www.cnblogs.com/Howfars/p/13355617.html) | 21 |
 | 2020/7/22 | [剑指 Offer 56 - I. 数组中数字出现的次数 ](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [剑指Offer_#56-I_数组中数字出现的次数](https://www.cnblogs.com/Howfars/p/13365429.html) | 22 |
 | 2020/7/23 | [剑指 Offer 56 - II. 数组中数字出现的次数 II ](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [剑指Offer_#56-II_ 数组中数字出现的次数II](https://www.cnblogs.com/Howfars/p/13365560.html) | 23 |
+| 2020/7/24 | [剑指 Offer 60. n个骰子的点数 ](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [剑指Offer_#60_n个骰子的点数](https://www.cnblogs.com/Howfars/p/13375338.html) | 24 |
+| 2020/7/25 | [剑指 Offer 57. 和为s的两个数字 ](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [剑指 Offer_#57_和为s的两个数字](https://www.cnblogs.com/Howfars/p/13378694.html) | 25 |
 

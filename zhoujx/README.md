@@ -23,4 +23,5 @@
 | 16   | 2020/7/21 | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [笔记：95. 不同的二叉搜索树 II](https://www.yuque.com/zhoujx/study/lc95) |
 | 17   | 2020/7/22 | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [笔记：154. 寻找旋转排序数组中的最小值 II&剑指 Offer 11. 旋转数组的最小数字](https://www.yuque.com/zhoujx/study/lc154) |
 | 18   | 2020/7/23 | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [笔记：64.最小路径和](https://www.yuque.com/zhoujx/study/lc64) |
+| 19   | 2020/7/24 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)<br />[面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/) | [笔记：剑指 Offer 32 - I. 从上到下打印二叉树](https://www.yuque.com/zhoujx/study/cpiml5) |
 

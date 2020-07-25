@@ -19,4 +19,5 @@
 |009| 2020/07/08 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)</br>[面试题 16.11. 跳水板](https://leetcode-cn.com/problems/diving-board-lcci/) | [102. 二叉树的层序遍历](https://www.cnblogs.com/Swetchine/p/13266494.html)</br> [[day010]338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)|
 |010| 2020/07/13 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [[动态规划]338. 比特位计数](https://www.cnblogs.com/Swetchine/p/13296669.html) |
 |011| 2020/07/15 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [[leetcode]53. 最大子序和*](https://www.cnblogs.com/Swetchine/p/13308352.html) |
+|012| 2020/07/23 | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum//) | [[动态规划]64. 最小路径和](https://www.cnblogs.com/Swetchine/p/12674290.html) |
 </div>
