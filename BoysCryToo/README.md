@@ -19,3 +19,4 @@
 | 2020/7/22 | [剑指 Offer 11. 旋转数组的最小数字 - 力扣（LeetCode）](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [剑指 Offer 11. 旋转数组的最小数字-笔记](https://www.cnblogs.com/BoysCryToo/p/13360650.html) |
 | 2020/7/23 | [64. 最小路径和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/minimum-path-sum/) | [64. 最小路径和-笔记](https://www.cnblogs.com/BoysCryToo/p/13364565.html) |
 | 2020/7/24 | [1025. 除数博弈 - 力扣（LeetCode）](https://leetcode-cn.com/problems/divisor-game/) | [1025. 除数博弈-笔记](https://www.cnblogs.com/BoysCryToo/p/13370488.html) |
+| 2020/7/25 | [410. 分割数组的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/split-array-largest-sum/) | [410. 分割数组的最大值-笔记](https://www.cnblogs.com/BoysCryToo/p/13378584.html) |
