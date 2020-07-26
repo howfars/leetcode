@@ -29,4 +29,5 @@
 | 2020/7/23 | [剑指 Offer 56 - II. 数组中数字出现的次数 II ](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [剑指Offer_#56-II_ 数组中数字出现的次数II](https://www.cnblogs.com/Howfars/p/13365560.html) | 23 |
 | 2020/7/24 | [剑指 Offer 60. n个骰子的点数 ](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [剑指Offer_#60_n个骰子的点数](https://www.cnblogs.com/Howfars/p/13375338.html) | 24 |
 | 2020/7/25 | [剑指 Offer 57. 和为s的两个数字 ](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [剑指 Offer_#57_和为s的两个数字](https://www.cnblogs.com/Howfars/p/13378694.html) | 25 |
+| 2020/7/26 | [剑指 Offer 67. 把字符串转换成整数 ](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)<br>[面试题68 - II. 二叉树的最近公共祖先 ](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [剑指Offer_#67_把字符串转换成整数](https://www.cnblogs.com/Howfars/p/13380590.html)<br>[剑指Offer_#68-II_二叉树的最近公共祖先](https://www.cnblogs.com/Howfars/p/13381305.html) | 26 |
 
