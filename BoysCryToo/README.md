@@ -20,3 +20,4 @@
 | 2020/7/23 | [64. 最小路径和 - 力扣（LeetCode）](https://leetcode-cn.com/problems/minimum-path-sum/) | [64. 最小路径和-笔记](https://www.cnblogs.com/BoysCryToo/p/13364565.html) |
 | 2020/7/24 | [1025. 除数博弈 - 力扣（LeetCode）](https://leetcode-cn.com/problems/divisor-game/) | [1025. 除数博弈-笔记](https://www.cnblogs.com/BoysCryToo/p/13370488.html) |
 | 2020/7/25 | [410. 分割数组的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/split-array-largest-sum/) | [410. 分割数组的最大值-笔记](https://www.cnblogs.com/BoysCryToo/p/13378584.html) |
+| 2020/7/26 | [329. 矩阵中的最长递增路径  - 力扣（LeetCode）](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | [329. 矩阵中的最长递增路径-笔记](https://www.cnblogs.com/BoysCryToo/p/13380212.html) |
