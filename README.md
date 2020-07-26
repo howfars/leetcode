@@ -18,7 +18,7 @@
 
 | 用户                                                         | 天数                    | 进度 |
 | ------------------------------------------------------------ | ----------------------- | ---- |
-| [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::star::star::heart::heart::heart::heart: | 19/30 |
+| [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::star::star::star: | 20/30 |
 | [Swetchine](https://github.com/Swetchine)                    | :star::star::heart::heart: | 12/30 |
 | [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::star::star::heart::heart::heart::heart: |   19/30   |
 | [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star2::star::heart: | 26/30 |
