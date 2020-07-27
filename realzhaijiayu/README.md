@@ -21,3 +21,6 @@
 | 2020.07.24 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/)   | https://www.cnblogs.com/realzhaijiayu/p/13373983.html |
 | 2020.07.26 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | https://www.cnblogs.com/realzhaijiayu/p/13382865.html |
 | 2020.07.27 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | https://www.cnblogs.com/realzhaijiayu/p/13388619.html |
+| 2020.07.28 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | https://www.cnblogs.com/realzhaijiayu/p/13388741.html |
+|            |                                                              |                                                       |
+|            |                                                              |                                                       |
