@@ -22,4 +22,5 @@
 | 2020/7/25 | [410. 分割数组的最大值 - 力扣（LeetCode）](https://leetcode-cn.com/problems/split-array-largest-sum/) | [410. 分割数组的最大值-笔记](https://www.cnblogs.com/BoysCryToo/p/13378584.html) |
 | 2020/7/26 | [329. 矩阵中的最长递增路径  - 力扣（LeetCode）](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | [329. 矩阵中的最长递增路径-笔记](https://www.cnblogs.com/BoysCryToo/p/13380212.html) |
 | 2020/7/27 | [392. 判断子序列  - 力扣（LeetCode）](https://leetcode-cn.com/problems/is-subsequence/) | [392. 判断子序列-笔记](https://www.cnblogs.com/BoysCryToo/p/13392255.html) |
-| 2020/7/26 | [104. 二叉树的最大深度  - 力扣（LeetCode）](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [104. 二叉树的最大深度-笔记](https://www.cnblogs.com/BoysCryToo/p/13392465.html) |
+| 2020/7/28 | [104. 二叉树的最大深度  - 力扣（LeetCode）](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [104. 二叉树的最大深度-笔记](https://www.cnblogs.com/BoysCryToo/p/13392465.html) |
+| 2020/7/29 | [LCP 13. 寻宝  - 力扣（LeetCode）](https://leetcode-cn.com/problems/xun-bao/) | [LCP 13. 寻宝-笔记](https://www.cnblogs.com/BoysCryToo/p/13396208.html) |
