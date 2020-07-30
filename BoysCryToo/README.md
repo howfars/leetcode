@@ -24,3 +24,4 @@
 | 2020/7/27 | [392. 判断子序列  - 力扣（LeetCode）](https://leetcode-cn.com/problems/is-subsequence/) | [392. 判断子序列-笔记](https://www.cnblogs.com/BoysCryToo/p/13392255.html) |
 | 2020/7/28 | [104. 二叉树的最大深度  - 力扣（LeetCode）](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [104. 二叉树的最大深度-笔记](https://www.cnblogs.com/BoysCryToo/p/13392465.html) |
 | 2020/7/29 | [LCP 13. 寻宝  - 力扣（LeetCode）](https://leetcode-cn.com/problems/xun-bao/) | [LCP 13. 寻宝-笔记](https://www.cnblogs.com/BoysCryToo/p/13396208.html) |
+| 2020/7/30 | [343. 整数拆分  - 力扣（LeetCode）](https://leetcode-cn.com/problems/integer-break/) | [343. 整数拆分-笔记](https://www.cnblogs.com/BoysCryToo/p/13402570.html) |
